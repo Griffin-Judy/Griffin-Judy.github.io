@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Blog Archive
+title: Blog Test
 ---
 Does This Do What I Want?
